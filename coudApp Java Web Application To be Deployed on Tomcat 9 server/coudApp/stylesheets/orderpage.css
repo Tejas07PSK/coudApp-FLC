@@ -1,0 +1,43 @@
+   h1{
+         color:darkslateblue;
+              font-weight: bold;
+              font-style: italic;
+              font-family:Verdana;
+
+        }
+h3
+{
+     color:darkblue;
+              font-weight: bold;
+              font-style:normal;
+              font-family:Calibri;
+}
+
+  body
+        {
+               
+            background-color:antiquewhite;
+            background-repeat: no-repeat;
+            background-size:auto;
+                
+        }
+#btn1
+{
+    position: absolute;
+     width: 120px;
+     height: 40px;
+    color:black;
+    font-size: 20px;
+    background-color:azure;
+    font-weight:500;
+    left: 150px;
+    top:360px;
+  
+}
+p
+{
+     color:forestgreen;
+              font-weight: bold;
+              font-style:normal;
+              font-family:sans-serif;
+}

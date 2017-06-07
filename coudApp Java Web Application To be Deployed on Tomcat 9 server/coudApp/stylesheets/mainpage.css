@@ -1,0 +1,125 @@
+ h1{
+         color:darkslateblue;
+              font-weight: bold;
+              font-style: italic;
+              font-family:Verdana;
+
+}
+h2
+{
+     color:darkgreen;
+              font-weight: bold;
+              font-style:normal;
+              font-family:Calibri;
+}
+h3
+{
+     color:darkblue;
+              font-weight: bold;
+              font-style:normal;
+              font-family:Calibri;
+}
+     body
+        {
+               
+            background-color:antiquewhite;
+            background-repeat: no-repeat;
+            background-size:auto;
+                
+        }
+#Item1
+{
+    
+    position: absolute;
+    width:650px;
+    height: 250px;
+    top: 400px;
+    left:30px;
+    
+}
+#tb1
+{
+    position: absolute;
+    top: 10px;
+    left:260px;
+    width: 300px;
+    height:200px;
+    
+}
+#Item2
+{
+    
+    position: absolute;
+    width:650px; 
+    top: 400px;
+    left:700px;
+}
+#tb2
+{
+    position: absolute;
+    top: 10px;
+    left:260px;
+    width: 300px;
+    height:200px;
+}
+#Item3
+{
+    
+    position: absolute;
+    width:650px;
+    top: 700px;
+    left:30px;
+}
+#tb3
+{
+    position: absolute;
+    top: 10px;
+    left:260px;
+    width: 300px;
+    height:200px;
+}
+#Item4
+{
+    
+    position: absolute;
+    width:650px;
+    top: 700px;
+    left:700px;
+}
+#tb4
+{
+    position: absolute;
+    top: 10px;
+    left:260px;
+    width: 300px;
+    height:200px;
+}
+p
+{
+     color:forestgreen;
+              font-weight: bold;
+              font-style:normal;
+              font-family:sans-serif;
+}
+ul
+{
+     color:black;
+              font-weight: bold;
+              font-style:italic;
+              font-family:Arial;
+}
+table
+{
+    font-family: Calibri;
+    color:darkmagenta;
+    font-weight: bold;
+}
+input
+{
+    width: 285px;
+    height: 100px;
+    color:aliceblue;
+    font-size: 30px;
+    background-color: indianred;
+    font-weight: bold;
+}
